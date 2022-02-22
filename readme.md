@@ -5,6 +5,6 @@ Safe to use in youtube videos.
 
 ## Endpoint:
 
-`GET https://thibaultjanbeyer.github.io/YouTube-Free-Audio-Library-API/api.json`
+`GET https://gyanmcaptain.github.io/yt-audio-library/api.json`
 
-https://thibaultjanbeyer.github.io/YouTube-Free-Audio-Library-API/api.json
+https://gyanmcaptain.github.io/yt-audio-library/api.json
